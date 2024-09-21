@@ -11,7 +11,7 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 
 ## Requirements
 
-* Python 3.8.3
+* **Python 3.8.3**
   
 Ensure you have the following Python packages installed:
 
