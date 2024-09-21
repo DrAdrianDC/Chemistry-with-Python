@@ -1,1 +1,1 @@
-# Chemistry-with-Python-
+# Chemistry with Python
