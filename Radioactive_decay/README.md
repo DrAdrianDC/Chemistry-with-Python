@@ -1,6 +1,6 @@
 ## Radioactive Decay 
 
-
+Certain atomic nuclei are unstable, and will over time decay into other nuclei, through emission of radiation. We call such atomic nuclei **radioactive**. The process of radioactive decay is completely random, but for large collections of atoms, we can model how much remains of the original matter after a certain time.
 
 
 The equation for radioactive decay is given by:
