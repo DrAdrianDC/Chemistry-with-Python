@@ -33,6 +33,6 @@ pip install periodictable
 3- Run the script by executing the following command in your terminal:
 
 ```bash
-python periodic_table_info.py
+python periodic_table.py
 ```
 4- Enter the symbol of the element you'd like to inquire about, and the program will output the corresponding data.
