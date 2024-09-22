@@ -1,7 +1,7 @@
 ## Radioactive Decay 
 
 
-## Radioactive Decay Equation
+
 
 The equation for radioactive decay is given by:
 
