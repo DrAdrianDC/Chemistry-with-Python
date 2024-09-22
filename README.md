@@ -8,6 +8,10 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 
 ## Table of Contents
 
+- [Programs Overview](#programs-overview)
+  - [1. Embedded Text-to-Audio](#1-embedded-text-to-audio)
+  - [2. PDF Text Extraction and Audio Conversion](#2-pdf-text-extraction-and-audio-conversion)
+  - [3. English-to-Spanish Translation and Audio Conversion](#3-english-to-spanish-translation-and-audio-conversion)
 - Periodic Table
 - Radioactive decay
 
