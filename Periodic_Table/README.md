@@ -2,7 +2,7 @@
 
 ## Periodic Table Element Info using Python
 
-This Python project allows users to input the name of a chemical element and receive detailed information about the element, including its symbol, atomic number, atomic weight, and density. The project utilizes the `periodictable` Python library to access a built-in periodic table.
+This Python project allows users to input the symbol of a chemical element and receive detailed information about the element, including its name, atomic number, atomic weight, and density. The project utilizes the `periodictable` Python library to access a built-in periodic table.
 
 ## Features
 
@@ -35,4 +35,4 @@ pip install periodictable
 ```bash
 python periodic_table_info.py
 ```
-4- Enter the name of the element you'd like to inquire about, and the program will output the corresponding data.
+4- Enter the symbol of the element you'd like to inquire about, and the program will output the corresponding data.
