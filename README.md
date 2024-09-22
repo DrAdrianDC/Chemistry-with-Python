@@ -9,8 +9,9 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 ## Table of Contents
 
 - [Programs Overview](#programs-overview)
-  - [1. Periodic Table](#1-Periodic-Table)
-  - [2. Radioactive decay](#2-Radioactive-decay)
+  - [1. Chemical Formula Finder](#1-Chemical-Formula-Finder)
+  - [2. Periodic Table](#1-Periodic-Table)
+  - [3. Radioactive decay](#2-Radioactive-decay)
 - [Requirements](#Requirements)  
 
  
