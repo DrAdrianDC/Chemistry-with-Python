@@ -22,3 +22,10 @@ Before running the project, ensure you have Python installed. You'll also need t
 
 ```bash
 pip install periodictable
+```
+
+## How to Run
+
+```bash
+python periodic_table_info.py
+```
