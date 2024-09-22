@@ -26,6 +26,9 @@ pip install periodictable
 
 ## How to Run
 
+1- Clone the repository or download the script.
+2- Install the necessary Python dependencies (see Prerequisites).
+3- Run the script by executing the following command in your terminal:
 ```bash
 python periodic_table_info.py
 ```
