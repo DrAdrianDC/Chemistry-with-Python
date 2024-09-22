@@ -37,8 +37,5 @@ Where:
    
    ![Decay Constant Formula](https://latex.codecogs.com/png.latex?\lambda%20=%200.693%20/%20T_{1/2})
 
-### Example Calculation:
-
-Suppose a radioactive substance has a half-life of 10 years. The decay constant can be calculated as follows:
 
 
