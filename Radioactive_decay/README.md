@@ -20,8 +20,8 @@ Where:
 
 The decay constant (λ) represents the probability of decay of a radioactive nucleus per unit time. It is related to the **half-life** of the radioactive substance, which is the time required for half of the material to decay.
 
-    **Short half-life:** Isotopes with a short half-life are highly unstable and decay rapidly. They may release significant energy in a short period.
-    **Long half-life:** Isotopes with a long half-life are less unstable, meaning they decay more slowly, sometimes over millions or billions of years. However, they still transform into more stable forms over time.
+   **Short half-life**: Isotopes with a short half-life are highly unstable and decay rapidly. They may release significant energy in a short period.
+   **Long half-life**: Isotopes with a long half-life are less unstable, meaning they decay more slowly, sometimes over millions or billions of years. However, they still transform into more stable forms over time.
 
 In summary, stable materials do not undergo radioactive decay, while unstable materials (radioactive isotopes) decay over time, with the half-life determining how quickly or slowly that process occurs. The half-life is a key metric that reflects the degree of instability of a material.
 
