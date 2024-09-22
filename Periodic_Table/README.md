@@ -35,3 +35,4 @@ pip install periodictable
 ```bash
 python periodic_table_info.py
 ```
+4- Enter the name of the element you'd like to inquire about, and the program will output the corresponding data.
