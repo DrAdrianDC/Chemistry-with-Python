@@ -8,6 +8,9 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 
 ## Table of Contents
 
+- Periodic Table
+- Radioactive decay
+
 
 ## Requirements
 
