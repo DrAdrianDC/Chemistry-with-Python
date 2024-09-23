@@ -24,10 +24,11 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 Ensure you have the following Python packages installed:
 
 - `periodictable` 
-- `pubchempy` 
+- `pubchempy`
+- - `matplotlib` 
 
 You can install the required packages using pip:
 
 ```bash
-pip install periodictable pubchempy
+pip install periodictable pubchempy matplotlib
 ```
