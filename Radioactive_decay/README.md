@@ -49,6 +49,8 @@ Where:
 
 ## Requirements
 
+* Python 3.8.3
+
 To run this project, ensure you have the following libraries installed:
 
 - `matplotlib`
@@ -57,7 +59,7 @@ You can install the required library using pip:
 
 ```bash
 pip install matplotlib
-
+```
 
 ## How to Run
 
