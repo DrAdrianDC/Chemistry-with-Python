@@ -1,5 +1,26 @@
 ## Radioactive Decay 
 
+
+This Python project simulates radioactive decay based on the user's input for the half-life, initial mass, and given time. 
+
+## Features
+
+- Calculates the decay constant from the half-life of the isotope.
+- Computes the remaining mass of the isotope after a specified time.
+- Plots the decay curve using Matplotlib, showing the mass remaining over time.
+
+## Requirements
+
+To run this project, ensure you have the following libraries installed:
+
+- `matplotlib`
+
+You can install the required library using pip:
+
+```bash
+pip install matplotlib
+
+
 Certain atomic nuclei are unstable, and will over time decay into other nuclei, through emission of radiation. We call such atomic nuclei **radioactive**. The process of radioactive decay is completely random, but for large collections of atoms, we can model how much remains of the original matter after a certain time.
 
 
