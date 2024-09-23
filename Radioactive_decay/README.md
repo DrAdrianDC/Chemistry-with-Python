@@ -58,3 +58,17 @@ You can install the required library using pip:
 ```bash
 pip install matplotlib
 
+
+## How to Run
+
+1- Clone the repository or download the script.
+
+2- Install the necessary Python dependencies (see Prerequisites).
+
+3- Run the script by executing the following command in your terminal:
+
+```bash
+python radioactive_decay.py
+```
+4- Enter the half-life of the isotope, the initial mass and the given time, and the program will output the remaining mass and will plot a figure with the corresponding radioactive decay.
+
