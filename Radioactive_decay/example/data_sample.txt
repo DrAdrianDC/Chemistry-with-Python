@@ -1,0 +1,16 @@
+
+                Input
+
+Half-time (in seconds):  1220 
+
+Initial mass (in grams): 4500
+
+Time (in seconds): 6000
+
+
+
+                Output
+
+Resining mass (in grams): 148.95
+
+
