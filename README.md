@@ -25,7 +25,7 @@ Ensure you have the following Python packages installed:
 
 - `periodictable` 
 - `pubchempy`
-- - `matplotlib` 
+- `matplotlib` 
 
 You can install the required packages using pip:
 
