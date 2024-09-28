@@ -1,6 +1,6 @@
 # Example Usage
 
-This folder contains example scripts and data to demonstrate how to use the Radioactive Decay Simulation project.
+This folder contains example scripts and data to demonstrate how to use the Radioactive Decay simulation code using Python .
 
 ## Contents
 
