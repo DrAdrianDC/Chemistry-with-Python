@@ -20,6 +20,7 @@ pip install pubchempy
 
 ## How to Use
 1- Clone or download the script.
+
 2- Run the script and input the name of the chemical compound you want information about.
 ```bash
 python chemical_finder.py
