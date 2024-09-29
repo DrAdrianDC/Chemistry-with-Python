@@ -14,9 +14,10 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
 
 - [Programs Overview](#programs-overview)
   - [1. Chemical Formula Finder](#1-Chemical-Formula-Finder)
-  - [2. Periodic Table](#2-Periodic-Table)
-  - [3. Radioactive decay](#3-Radioactive-decay)
-  - [4. RDkit](#4-RDkit)
+  - [2. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
+  - [3. Periodic Table](#3-Periodic-Table)
+  - [4. Radioactive decay](#4-Radioactive-decay)
+ 
 - [Requirements](#Requirements)  
 
  
