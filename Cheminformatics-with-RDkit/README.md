@@ -29,10 +29,11 @@ The following is a step-by-step workflow for analyzing and comparing molecular s
 
 Ensure that the following Python libraries are installed:
 
-    RDKit
-    NumPy
-    SELFIES
+ RDKit
+ NumPy
+ SELFIES
 
+To install RDKit and SELFIES, run:
 ```bash
 pip install rdkit selfies
 ```
