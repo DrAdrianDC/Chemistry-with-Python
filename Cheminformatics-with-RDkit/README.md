@@ -8,6 +8,8 @@ Cheminformatics can be thought of as the intersection of data science, computer 
 
 # Molecular Analysis with RDKit and SELFIES
 
+The following is a step-by-step workflow for analyzing and comparing molecular structures using cheminformatics tools such as RDKit and SELFIES. The primary focus is on the structural comparison of two gold clusters using Morgan fingerprints and Tanimoto similarity. Additionally, the project demonstrates how to convert SMILES strings into SELFIES and analyze their symbolic representation.
+
 ## Features
 
 **Molecular Representation:** Converts SMILES strings into RDKit molecule objects.
