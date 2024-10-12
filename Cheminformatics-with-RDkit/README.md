@@ -25,3 +25,15 @@ The following is a step-by-step workflow for analyzing and comparing molecular s
 **SMILES to SELFIES:** Converts SMILES strings to SELFIES for a more generalized molecular representation.
 
 
+## Requierements
+
+Ensure that the following Python libraries are installed:
+
+    RDKit
+    NumPy
+    SELFIES
+
+```bash
+pip install rdkit selfies
+```
+
