@@ -24,6 +24,8 @@ The following is a step-by-step workflow for analyzing and comparing molecular s
 
 **SMILES to SELFIES:** Converts SMILES strings to SELFIES for a more generalized molecular representation.
 
+**Generating new models:** Generating new random molecular structures based on existing ones.
+
 
 ## Requierements
 
