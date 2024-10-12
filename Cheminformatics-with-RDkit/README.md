@@ -27,14 +27,15 @@ The following is a step-by-step workflow for analyzing and comparing molecular s
 
 ## Requierements
 
-Python 3.8.3
+**Python 3.8.3**
+
 Ensure that the following Python libraries are installed:
 
- RDKit
+ **RDKit**
  
- NumPy
+ **NumPy**
  
- SELFIES
+ **SELFIES**
  
 
 To install RDKit and SELFIES, run:
