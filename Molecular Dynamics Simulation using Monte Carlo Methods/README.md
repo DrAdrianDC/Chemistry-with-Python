@@ -12,13 +12,13 @@ The system undergoes a series of random moves, and the simulation determines whe
 
 ## Features
 
-* Lennard-Jones Potential: The energy between two particles is modeled using the Lennard-Jones potential, which is a function of the distance between particles.
+* **Lennard-Jones Potential:** The energy between two particles is modeled using the Lennard-Jones potential, which is a function of the distance between particles.
 
-* Monte Carlo Simulation: The system is evolved through a series of random moves, with the acceptance or rejection of each move determined by the energy change and temperature.
+* **Monte Carlo Simulation:** The system is evolved through a series of random moves, with the acceptance or rejection of each move determined by the energy change and temperature.
   
-* Energy Convergence: The simulation tracks the total energy of the system over time, showing how the system evolves towards equilibrium.
+* **Energy Convergence:** The simulation tracks the total energy of the system over time, showing how the system evolves towards equilibrium.
   
-* 3D Particle Visualization: The final positions of the particles are visualized in 3D, showing their distribution in the simulation box.
+* **3D Particle Visualization:** The final positions of the particles are visualized in 3D, showing their distribution in the simulation box.
   
 ## Requirements
 This code requires the following Python libraries:
