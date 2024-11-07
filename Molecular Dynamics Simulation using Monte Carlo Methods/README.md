@@ -63,7 +63,7 @@ The simulation is initialized with the following parameters:
 To run the simulation, simply execute the script. 
 
   ```bash
-   python 
+   python MD-Monte_Carlo-simulations.py
    ```
 
 The results will be saved as:
