@@ -6,9 +6,9 @@ This repository contains a simulation of molecular dynamics using Monte Carlo me
 
 Monte Carlo methods are used to simulate the movement of particles in a system and study their interactions. In this case, we are using the Lennard-Jones potential to model the interactions between particles. ( The Lennard-Jones potential is often used to model simple atomic or molecular systems where short-range repulsive forces and long-range attractive forces need to be considered. It is particularly useful in simulating noble gases, liquids, and other systems with relatively simple interatomic interactions.)
 
-The system undergoes a series of random moves, and the simulation determines whether each move is accepted or rejected based on the change in energy and temperature.
-The simulation tracks the total energy of the system over time and visualizes the final positions of the particles in 3D.
+The system undergoes a series of random moves, and the simulation determines whether each move is accepted or rejected based on the change in energy and temperature. The simulation tracks the total energy of the system over time and visualizes the final positions of the particles in 3D.
 
+##### (The Total Energy, starting high due to random particle placement and gradually decreasing as the system finds a configuration with lower energy)
 
 ## Features
 
