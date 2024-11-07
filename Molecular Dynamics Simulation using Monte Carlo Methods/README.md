@@ -62,6 +62,10 @@ The simulation is initialized with the following parameters:
 
 To run the simulation, simply execute the script. 
 
+  ```bash
+   python 
+   ```
+
 The results will be saved as:
 * energy_convergence.png: A plot showing the energy convergence over the Monte Carlo steps.
 * final_particle_positions.png: A 3D plot of the final positions of the particles.
