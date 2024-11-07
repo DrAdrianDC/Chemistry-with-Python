@@ -27,8 +27,9 @@ This code requires the following Python libraries:
 
 You can install the required libraries using pip:
 
-pip install numpy matplotlib
-
+   ```bash
+   pip install numpy matplotlib
+   ```
 
 ## Code Overview
 
