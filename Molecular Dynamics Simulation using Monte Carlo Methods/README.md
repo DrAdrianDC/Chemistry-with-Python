@@ -33,7 +33,7 @@ You can install the required libraries using pip:
 
 ## Code Overview
 
-1. Parameters
+### 1. Parameters
 The simulation is initialized with the following parameters:
 * num_particles: Number of particles in the system (default is 50).
 * box_size: Size of the cubic simulation box (default is 10.0).
@@ -42,15 +42,21 @@ The simulation is initialized with the following parameters:
 * move_dist: Maximum move distance for each step (default is 0.1).
 * epsilon: Depth of the Lennard-Jones potential well (default is 1.0).
 * sigma: Distance at which the Lennard-Jones potential is zero (default is 1.0).
-2. Functions
+
+  
+### 2. Functions
 * lennard_jones_potential(r): Calculates the Lennard-Jones potential between two particles based on their distance r.
 * calculate_total_energy(positions): Computes the total energy of the system by summing the Lennard-Jones potential for all particle pairs.
 * monte_carlo_simulation(positions, max_steps, temperature): Performs the Monte Carlo simulation by randomly moving particles and accepting or rejecting the moves based on the energy change.
 * plot_particles(positions): Visualizes the final positions of the particles in 3D using matplotlib.
-3. Outputs
+
+
+### 3. Outputs
 * Energy Convergence Plot: The total energy of the system is plotted over time, showing how the system evolves toward equilibrium.
 * Particle Position Visualization: A 3D scatter plot shows the final positions of the particles in the simulation box.
-Usage
+
+
+### Usage
 To run the simulation, simply execute the script. The results will be saved as:
 * energy_convergence.png: A plot showing the energy convergence over the Monte Carlo steps.
 * final_particle_positions.png: A 3D plot of the final positions of the particles.
