@@ -1,6 +1,6 @@
 # Molecular Dynamics Simulation using Monte Carlo Methods
 
-This repository contains a simulation of molecular dynamics using Monte Carlo methods. The simulation explores the configurational space of particles in a cubic box, calculating the total energy of the system using the Lennard-Jones potential and applying periodic boundary conditions.
+This repository contains a simulation of **molecular dynamics using Monte Carlo methods**. The simulation explores the configurational space of particles in a cubic box, calculating the total energy of the system using the Lennard-Jones potential and applying periodic boundary conditions.
 
 ## Description
 
