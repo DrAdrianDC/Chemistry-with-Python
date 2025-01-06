@@ -39,3 +39,11 @@ You can install the required packages using pip:
 ```bash
 pip install periodictable pubchempy matplotlib
 ```
+
+
+
+## License
+
+This repository is licensed under the terms of the MIT license (See LICENSE.txt)
+
+
