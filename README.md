@@ -44,6 +44,6 @@ pip install periodictable pubchempy matplotlib
 
 ## License
 
-This repository is licensed under the terms of the **MIT license** (See LICENSE.txt)
+This repository is licensed under the terms of the **MIT License** (See LICENSE.txt)
 
 
