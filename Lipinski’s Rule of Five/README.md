@@ -5,10 +5,10 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
 
 ##    ✅  Lipinski’s Rule of Five states that a molecule is more likely to be orally bioavailable if:
 
-        * Molecular weight ≤ 500 Daltons
-        * LogP ≤ 5
-        * Hydrogen bond donors ≤ 5
-        * Hydrogen bond acceptors ≤ 10
+             * Molecular weight ≤ 500 Daltons
+             * LogP ≤ 5
+             * Hydrogen bond donors ≤ 5
+             * Hydrogen bond acceptors ≤ 10
 
 
 ##    📁 File Structure
