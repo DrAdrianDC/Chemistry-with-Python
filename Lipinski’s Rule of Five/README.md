@@ -30,10 +30,9 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
 ## 📂 Usage
 
 Run the script with a SMILES input file:
-
 ```bash
-  python drug_likeness_predictor.py example_smiles.txt
-
+python drug_likeness_predictor.py example_smiles.txt
+```
 
 The output will be a CSV file named lipinski_results.csv.
 
