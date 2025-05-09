@@ -34,7 +34,7 @@ Run the script with a SMILES input file:
 python drug_likeness_predictor.py example_smiles.txt
 ```
 
-The output will be a CSV file named lipinski_results.csv.
+The output will be a CSV file named lipinski_results.csv containing molecular weight, LogP, H-bond donors, H-bond acceptors, and Lipinski rule evaluation.
 
 ## 🛠️ Requirements
 
