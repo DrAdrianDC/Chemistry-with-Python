@@ -1,12 +1,35 @@
-🧪 # Drug-Likeness Predictor Using Lipinski's Rule of Five
 
-🔍 # Project Description
+# 🧪 Drug-Likeness Predictor Using Lipinski's Rule of Five
 
-This project provides a simple yet effective way to assess whether a compound is "drug-like" using Lipinski’s Rule of Five, a widely accepted rule of thumb in drug discovery. Given a set of SMILES strings, the script uses RDKit to compute molecular descriptors and determines if each compound satisfies the criteria commonly associated with orally active drugs.
+This project evaluates chemical compounds for oral drug-likeness based on **Lipinski's Rule of Five** using SMILES input strings and RDKit for molecular descriptor computation.
 
-    ✅ # Lipinski’s Rule of Five states that a molecule is more likely to be orally bioavailable if:
+#    ✅  Lipinski’s Rule of Five states that a molecule is more likely to be orally bioavailable if:
 
       * Molecular weight ≤ 500 Daltons
       * LogP ≤ 5
       * Hydrogen bond donors ≤ 5
       * Hydrogen bond acceptors ≤ 10
+
+
+#    📁 File Structure
+
+drug-likeness-predictor/
+│
+├── drug_likeness_predictor.py      # Main Python script
+├── example_smiles.txt              # Example input file with SMILES
+└── README.md                       # Project description and usage
+
+
+## 🚀 How It Works
+
+- Parses SMILES strings from a text file.
+- Computes molecular weight, LogP, hydrogen bond donors (HBD), and acceptors (HBA).
+- Applies Lipinski’s rules to each compound.
+- Saves the results to `lipinski_results.csv`.
+
+## 🛠️ Requirements
+
+Install dependencies:
+
+```bash
+pip install pandas rdkit-pypi
