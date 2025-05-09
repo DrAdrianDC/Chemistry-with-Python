@@ -19,7 +19,6 @@ Lipinski’s Rule of Five/
 ├── example_smiles.txt              # Example input file with SMILES
 └── README.md                       # Project description and usage
 
-
 ## 🚀 How It Works
 
 - Parses SMILES strings from a text file.
