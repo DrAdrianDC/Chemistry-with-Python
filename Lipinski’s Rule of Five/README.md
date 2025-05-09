@@ -26,6 +26,15 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
 - Applies Lipinski’s rules to each compound.
 - Saves the results to `lipinski_results.csv`.
 
+
+## 📂 Usage
+
+Run the script with a SMILES input file:
+
+python drug_likeness_predictor.py example_smiles.txt
+
+
+
 ## 🛠️ Requirements
 
 Install dependencies:
