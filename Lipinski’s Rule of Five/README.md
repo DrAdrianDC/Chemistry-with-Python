@@ -13,7 +13,7 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
 
 ##    📁 File Structure
 
-drug-likeness-predictor/
+Lipinski’s Rule of Five/
 │
 ├── drug_likeness_predictor.py      # Main Python script
 ├── example_smiles.txt              # Example input file with SMILES
