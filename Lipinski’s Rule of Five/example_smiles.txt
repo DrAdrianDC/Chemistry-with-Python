@@ -1,0 +1,5 @@
+CC(=O)OC1=CC=CC=C1C(=O)O       # Aspirin
+CC1=CC(=O)NC(C)=C1             # Acetaminophen
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C   # Caffeine
+CC(C)NCC(O)COc1ccccc1          # Propranolol
+invalid_smiles_here            # Invalid example
