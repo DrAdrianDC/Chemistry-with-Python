@@ -3,7 +3,7 @@
 
 This project evaluates chemical compounds for oral drug-likeness based on **Lipinski's Rule of Five** using SMILES input strings and RDKit for molecular descriptor computation.
 
-#    ✅  Lipinski’s Rule of Five states that a molecule is more likely to be orally bioavailable if:
+##    ✅  Lipinski’s Rule of Five states that a molecule is more likely to be orally bioavailable if:
 
       * Molecular weight ≤ 500 Daltons
       * LogP ≤ 5
@@ -11,7 +11,7 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
       * Hydrogen bond acceptors ≤ 10
 
 
-#    📁 File Structure
+##    📁 File Structure
 
 drug-likeness-predictor/
 │
