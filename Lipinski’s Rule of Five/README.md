@@ -17,6 +17,7 @@ This project evaluates chemical compounds for oral drug-likeness based on **Lipi
                 │
                 ├── drug_likeness_predictor.py      # Main Python script
                 ├── example_smiles.txt              # Example input file with SMILES
+                ├── lipinski_results.csv            # Output results
                 └── README.md                       # Project description and usage
 
 ## 🚀 How It Works
