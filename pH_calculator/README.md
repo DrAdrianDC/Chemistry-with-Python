@@ -16,4 +16,6 @@ pip install -r requirements.txt
 ```
 Then run the Streamlit app:
 
+```bash
 streamlit run ph_calculator.py
+```
