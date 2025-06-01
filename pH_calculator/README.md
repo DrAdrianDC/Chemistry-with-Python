@@ -1,6 +1,6 @@
 # 🧪 pH and pOH Calculator
 
-This project allows you to calculate **pH**, **pOH**, **[H⁺]**, and **[OH⁻]** from any one value using basic acid-base chemistry.
+This small project allows you to calculate **pH**, **pOH**, **[H⁺]**, and **[OH⁻]** from any one value using basic acid-base chemistry.
 
 ## 💡 Features
 - Calculate unknown concentrations
