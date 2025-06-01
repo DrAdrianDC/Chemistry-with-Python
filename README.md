@@ -33,12 +33,13 @@ Ensure you have the following Python packages installed:
 
 - `periodictable` 
 - `pubchempy`
-- `matplotlib` 
+- `matplotlib`
+- `streamlit`
 
 You can install the required packages using pip:
 
 ```bash
-pip install periodictable pubchempy matplotlib
+pip install periodictable pubchempy matplotlib streamlit
 ```
 
 
