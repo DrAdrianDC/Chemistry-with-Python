@@ -18,6 +18,7 @@ It is widely used for kinetic and thermodynamic calculations, as well as in quan
   - [3. Molecular Dynamics Simulation using Monte Carlo Methods](#3-Molecular-Dynamics-Simulation-using-Monte-Carlo-Methods)
   - [4. Periodic Table](#4-Periodic-Table)
   - [5. Radioactive decay](#5-Radioactive-decay)
+  - [6. pH Calculator](#6-pH-Calculator)
  
 - [Requirements](#Requirements)  
 
