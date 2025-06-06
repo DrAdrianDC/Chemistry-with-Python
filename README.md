@@ -4,7 +4,7 @@ This repository is dedicated to demonstrating how Python can be used to solve an
 
 ## Overview
 
-It is widely used for kinetic and thermodynamic calculations, as well as in quantum chemistry and molecular mechanics. Python is used extensively for laboratory automation and software development. Data analysis and visualization in chemistry have also become easier with the libraries available in Python.
+
 
 ![Chemistry-with-Python](https://github.com/user-attachments/assets/0152c030-16cb-44b6-ad0d-55752c3c7407)
 
