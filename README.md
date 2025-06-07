@@ -16,10 +16,11 @@ Python has become a powerful tool in the field of chemistry due to its versatili
 - [Programs Overview](#programs-overview)
   - [1. Chemical Formula Finder](#1-Chemical-Formula-Finder)
   - [2. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
-  - [3. Molecular Dynamics Simulation using Monte Carlo Methods](#3-Molecular-Dynamics-Simulation-using-Monte-Carlo-Methods)
-  - [4. Periodic Table](#4-Periodic-Table)
-  - [5. Radioactive decay](#5-Radioactive-decay)
-  - [6. pH Calculator](#6-pH-Calculator)
+  - [3. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
+  - [4. Molecular Dynamics Simulation using Monte Carlo Methods](#3-Molecular-Dynamics-Simulation-using-Monte-Carlo-Methods)
+  - [5. Periodic Table](#4-Periodic-Table)
+  - [6. Radioactive decay](#5-Radioactive-decay)
+  - [7. pH Calculator](#6-pH-Calculator)
  
 - [Requirements](#Requirements)  
 
