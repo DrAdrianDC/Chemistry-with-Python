@@ -1,3 +1,3 @@
-## Radioactive Decay
+## Chemical Kinetics
 
 
