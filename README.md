@@ -15,7 +15,7 @@ Python has become a powerful tool in the field of chemistry due to its versatili
 
 - [Programs Overview](#programs-overview)
   - [1. Chemical Formula Finder](#1-Chemical-Formula-Finder)
-  - [2. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
+  - [2. Chemical Kinetics](#2-Chemical-Kinetics)
   - [3. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
   - [4. Molecular Dynamics Simulation using Monte Carlo Methods](#3-Molecular-Dynamics-Simulation-using-Monte-Carlo-Methods)
   - [5. Periodic Table](#4-Periodic-Table)
