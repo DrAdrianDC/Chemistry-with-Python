@@ -11,5 +11,5 @@ In chemistry one is often interested in how fast a chemical process proceeds.
 
  Run the script.
 ```bash
-python chemical_kinetics.py
+python chemical-kinetics.py
 ```
