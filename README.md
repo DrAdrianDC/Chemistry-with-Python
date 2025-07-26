@@ -17,7 +17,7 @@ Python has become a powerful tool in the field of chemistry due to its versatili
   - [1. Chemical Formula Finder](#1-Chemical-Formula-Finder)
   - [2. Chemical Kinetics](#2-Chemical-Kinetics)
   - [3. Cheminformatics with RDkit](#2-Cheminformatics-with-RDkit)
-  - [4. Lipinski’s Rule of Five](#3-Lipinski’s Rule of Five)
+  - [4. Lipinski’s Rule of Five](#3-Lipinski’s-Rule-of-Five)
   - [5. Molecular Dynamics Simulation using Monte Carlo Methods](#3-Molecular-Dynamics-Simulation-using-Monte-Carlo-Methods)
   - [6. Periodic Table](#4-Periodic-Table)
   - [7. Radioactive decay](#5-Radioactive-decay)
