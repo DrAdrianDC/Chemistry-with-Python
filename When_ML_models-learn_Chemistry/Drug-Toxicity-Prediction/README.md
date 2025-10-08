@@ -23,7 +23,7 @@ This project predicts **molecular toxicity** from **SMILES** strings using **RDK
 
 ### Project Structure
 
-
+``` bash
 drug-toxicity-prediction/
 ├── data/
 │   └── dataset.csv
@@ -32,3 +32,5 @@ drug-toxicity-prediction/
 ├── app.py
 ├── README.md
 └── requirements.txt
+
+```
