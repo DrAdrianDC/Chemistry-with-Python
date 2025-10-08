@@ -1,4 +1,4 @@
-## Drug Toxicity Prediction using Neural Networks
+## Drug Toxicity Prediction using Neural Networks and RDKit
 
 
  ![red text](https://img.shields.io/badge/WIP-red)
