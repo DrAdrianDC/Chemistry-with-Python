@@ -7,6 +7,8 @@
 
 ### Overview
 
+Predicting whether a chemical compound will heal or harm remains one of the great challenges in pharmacology and toxicology. But as toxicity datasets grow and machine learning tools mature, researchers are developing models that can anticipate biological risk with remarkable precision. This shift marks a quiet revolution — moving toxicity testing from the petri dish to the realm of data-driven prediction.
+
 The main goal of the present work is to present a pathway for implementing a neural network model for toxicity prediction.
 
 This project predicts **molecular toxicity** from **SMILES** strings using **RDKit** to generate molecular fingerprints and a **deep neural network** built with TensorFlow/Keras.
